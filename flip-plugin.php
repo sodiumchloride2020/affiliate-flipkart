@@ -5,7 +5,7 @@ Plugin URI: https://github.com/sodiumchloride2020/affiliate-flipkart
 Description: Add your FLipkart-Tag to all Amazon URLs before redirection
 Version: 1.2
 Author: Amogh Kharche
-Author URI: https://floschliep.com
+Author URI: https://realjobs.in
 */
 
 yourls_add_action('pre_redirect', 'flo_amazonAffiliate');
